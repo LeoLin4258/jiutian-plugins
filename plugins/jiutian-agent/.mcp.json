@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "jiutian": { "type": "http", "url": "https://reexen-oa.rwkvos.com/api/mcp" }
+  }
+}

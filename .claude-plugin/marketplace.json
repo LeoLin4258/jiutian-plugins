@@ -1,0 +1,13 @@
+{
+  "name": "jiutian",
+  "owner": { "name": "九天睿芯" },
+  "metadata": { "description": "九天工作台的独立插件市场" },
+  "plugins": [
+    {
+      "name": "jiutian-agent",
+      "source": "./plugins/jiutian-agent",
+      "description": "查询和处理九天工作台的数据任务",
+      "version": "1.1.0"
+    }
+  ]
+}

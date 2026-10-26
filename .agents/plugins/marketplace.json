@@ -1,0 +1,12 @@
+{
+  "name": "jiutian",
+  "interface": { "displayName": "九天插件市场" },
+  "plugins": [
+    {
+      "name": "jiutian-agent",
+      "source": { "source": "local", "path": "./plugins/jiutian-agent" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}

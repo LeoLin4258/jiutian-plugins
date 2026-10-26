@@ -1,0 +1,6 @@
+{
+  "name": "jiutian-agent",
+  "version": "1.1.0",
+  "description": "九天工作台：查询任务、认领工作、提交样本和验收交付。",
+  "author": { "name": "九天睿芯" }
+}
