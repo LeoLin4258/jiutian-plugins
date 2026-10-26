@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "jiutian-agent",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "九天工作台：查询任务、认领工作、提交样本和验收交付。使用系统账号登录连接。",
   "author": { "name": "九天睿芯" },
   "extensions": {
